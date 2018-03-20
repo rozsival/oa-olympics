@@ -41,7 +41,7 @@ Stránce, kterou jsi vytvořil v rámci předchozí úlohy, přiřaď následuj�
 * odstavec textu bude od nadpisu odsazen vždy o `24px`, mezi sebou však odstavce budou odsazeny jen o `14px`
 * seznam bude zalamovat obsah uvnitř odrážky a styl bude mít stejný jako odstavec
 * odkazy budou mít libovolnou barvu, která se po najetí myší změní na jinou libovolnou barvu
-* tabulka bude mít rámečky pouze mezi jednotlivými řádky, nikoliv po stranách, její záhlaví bude mít libovolné pozadí a tučný text s kontrastní barvou, každý sudý řádek bude mít libovolou barvu pozadí, obsah bude zarovnaný vlevo
+* tabulka bude mít rámečky pouze mezi jednotlivými řádky, nikoliv po stranách, její záhlaví bude mít libovolné pozadí a tučný text s kontrastní barvou, každý sudý řádek bude mít libovolou barvu pozadí
 
 **Všechny texty v obsahu budou zarovnány vlevo.**
 
